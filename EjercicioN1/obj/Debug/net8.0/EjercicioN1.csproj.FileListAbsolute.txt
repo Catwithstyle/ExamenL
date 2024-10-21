@@ -1,0 +1,14 @@
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\bin\Debug\net8.0\EjercicioN1.exe
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\bin\Debug\net8.0\EjercicioN1.deps.json
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\bin\Debug\net8.0\EjercicioN1.runtimeconfig.json
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\bin\Debug\net8.0\EjercicioN1.dll
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\bin\Debug\net8.0\EjercicioN1.pdb
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\EjercicioN1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\EjercicioN1.AssemblyInfoInputs.cache
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\EjercicioN1.AssemblyInfo.cs
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\EjercicioN1.csproj.CoreCompileInputs.cache
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\EjercicioN1.dll
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\refint\EjercicioN1.dll
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\EjercicioN1.pdb
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\EjercicioN1.genruntimeconfig.cache
+D:\ProyectosC#\Tarealistas\EjercicioN1\EjercicioN1\obj\Debug\net8.0\ref\EjercicioN1.dll
